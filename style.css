@@ -1,0 +1,35 @@
+html{
+    background-image: url("3d-abstract-wave-pattern-background\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Orbitron', sans-serif;;
+    text-align: center;
+    color: #ebf2f2;
+}
+h2{
+    position: top;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #ebf2f2;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 16.66%;
+    padding: 5px;
+  }
+  .row2 {
+    display: flex;
+  }
+  
